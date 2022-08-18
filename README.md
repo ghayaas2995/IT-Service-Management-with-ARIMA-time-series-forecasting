@@ -2,6 +2,8 @@
 
 ABC Tech is a mid-size organisation operation in IT-enabled business segment over a decade. On an average ABC Tech receives 22-25k IT incidents/tickets , which were handled to best practice ITIL framework with incident management, problem management, change management and configuration management processes. These ITIL practices attained matured process level and a recent audit confirmed that further improvement initiatives may not yield return of investment. Therefore, Machine learning looks prospective to improve ITSM processes through prediction and automation.
 
+![image](https://user-images.githubusercontent.com/74657588/185484696-59e0537f-2cac-4e32-b719-66827c8c7b0f.png)
+
 Dataset: 
 
 The company incident volume data was sourced from company's MySQL database. It was a timeseries data having over 46000 ticket information and 25 features. The following analysis and tasks were performed to the dataset.
